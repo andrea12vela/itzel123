@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+H1{ 
+   color:#C66;
+   font-size:36px;
+   font:"Times New Roman", Times, serif;
+   border-style:double;
+}
+
+apollos{
+	color:#96C;
+	font-size: 36px;
+	text-align:center;
+}
+
+dos{
+	color:#C33;
+	font-size:18px;
+	font:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	text-align: center;
+	
+}
